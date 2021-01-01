@@ -8,13 +8,15 @@ Expense tracker
 
 ## Technologies Used
 
-1. React JS
-2. Speechly
+`React Js` was used in the creation of this project.
 
-## Features
+`Material UI` was used on the design of the cards.
 
-Uses voice recognition which saves on time on inputing expenses.
-Uses Local Storage to store information.
+The project has a `VOICE RECOGNITION` feature that was enhanced using `SPEECHLY` library. This was used so as to save the users time on typing as it's quicker to give a command by word of mouth.
+
+The application makes use of `Local Storage` which stores the application data of the user even when the site is closed. 
+
+For more info about `SPEECHLY` view the docs at [https://docs.speechly.com/client-libraries/react/](https://docs.speechly.com/client-libraries/react/) 
 
 ## View Project
 
